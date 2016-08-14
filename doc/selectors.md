@@ -1,0 +1,4 @@
+
+      <p>Borrowing from CSS 1&#x2013;3, and then adding its own, jQuery offers a powerful set of tools for matching a set of elements in a document.</p>
+      <p>To use any of the meta-characters ( such as <code> !"#$%&amp;'()*+,./:;&lt;=&gt;?@[\]^`{|}~</code> ) as a literal part of a name, it must be escaped with with two backslashes: <code>\\</code>. For example, an element with <code>id="foo.bar"</code>, can use the selector <code>$("#foo\\.bar")</code>. The W3C CSS specification contains the <a href="https://www.w3.org/TR/CSS21/syndata.html#value-def-identifier">complete set of rules regarding valid CSS selectors</a>. Also useful is the blog entry by Mathias Bynens on <a href="https://mathiasbynens.be/notes/css-escapes">CSS character escape sequences for identifiers</a>.</p>
+    

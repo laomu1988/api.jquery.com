@@ -1,0 +1,1 @@
+The following selectors are based on the Cascading Style Sheet 1 specification, as outlined by the W3C. For more information about the specifications, visit <a href="https://www.w3.org/Style/CSS/#specs">https://www.w3.org/Style/CSS/#specs</a>. 

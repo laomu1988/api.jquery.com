@@ -1,0 +1,1 @@
+These properties are associated with the global jQuery object.

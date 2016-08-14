@@ -1,0 +1,1 @@
+These methods can be used to make arbitrary Ajax requests.

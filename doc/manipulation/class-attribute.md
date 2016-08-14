@@ -1,0 +1,1 @@
+These methods inspect and manipulate the CSS classes assigned to elements.

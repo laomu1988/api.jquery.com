@@ -1,0 +1,1 @@
+These functions assist with common idioms encountered when performing Ajax tasks.

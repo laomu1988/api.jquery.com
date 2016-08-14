@@ -1,0 +1,1 @@
+These methods allow you to create effects that are not provided "out of the box" by jQuery.

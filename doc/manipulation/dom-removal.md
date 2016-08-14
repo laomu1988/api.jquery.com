@@ -1,0 +1,1 @@
+These methods allow us to delete elements from the DOM.

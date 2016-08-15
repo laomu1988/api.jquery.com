@@ -1,3 +1,4 @@
+# Event Object
 
         <p>jQuery's event system normalizes the event object according to <a href="https://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030331/ecma-script-binding.html">W3C standards</a>. The event object is guaranteed to be passed to the event handler. Most properties from the original event are copied over and normalized to the new event object.</p>
         <div class="longdesc">

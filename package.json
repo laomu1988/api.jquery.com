@@ -21,7 +21,8 @@
     }
   ],
   "scripts": {
-    "test": "grunt lint"
+    "test": "grunt lint",
+    "doc": "node lib/handle.js"
   },
   "dependencies": {
     "grunt": "0.4.5",

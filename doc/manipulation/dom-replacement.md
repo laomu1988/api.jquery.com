@@ -1,1 +1,2 @@
+# DOM Replacement
 These methods are used to remove content from the DOM and replace it with new content.

@@ -1,1 +1,2 @@
+# Properties of jQuery Object Instances
 Each jQuery object created with the jQuery() function contains a number of properties alongside its methods. These properties allow us to inspect various attributes of the object.

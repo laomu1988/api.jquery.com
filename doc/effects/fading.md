@@ -1,1 +1,2 @@
+# Fading
 These methods adjust the opacity of elements.

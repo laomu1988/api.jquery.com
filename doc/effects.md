@@ -1,1 +1,2 @@
+# Effects
 The jQuery library provides several techniques for adding animation to a web page. These include simple, standard animations that are frequently used, and the ability to craft sophisticated custom effects.

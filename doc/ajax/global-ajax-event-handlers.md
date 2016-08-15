@@ -1,1 +1,2 @@
+# Global Ajax Event Handlers
 These methods register handlers to be called when certain events, such as initialization or completion, take place for any Ajax request on the page. The global events are fired on each Ajax request if the <code>global</code> property in <a href="/jQuery.ajaxSetup/"><code>jQuery.ajaxSetup()</code></a> is <code>true</code>, which it is by default. <em>Note: Global events are never fired for cross-domain script or JSONP requests, regardless of the value of <code>global</code>.</em>

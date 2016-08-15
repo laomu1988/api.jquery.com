@@ -1,3 +1,4 @@
+# Manipulation
 All of the methods in this section manipulate the DOM in some manner. A few of them simply change one of the attributes of an element (also listed in the <a href="/category/attributes/">Attributes category</a>), while others set an element's style properties (also listed in the <a href="/category/css/">CSS category</a>). Still others modify entire elements (or groups of elements) themselves&#x2014;inserting, copying, removing, and so on. All of these methods are referred to as "setters," as they change the values of properties.
 			A few of these methods&#x2014;such as <code>.attr()</code>, <code>.html()</code>, and <code>.val()</code>&#x2014;also act as "getters," retrieving information from DOM elements for later use.
 		

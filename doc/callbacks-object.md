@@ -1,1 +1,2 @@
+# Callbacks Object
 The <code>jQuery.Callbacks()</code> function, introduced in version 1.7, returns a multi-purpose object that provides a powerful way to manage callback lists. It supports adding, removing, firing, and disabling callbacks.
